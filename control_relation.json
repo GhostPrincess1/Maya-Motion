@@ -1,0 +1,16 @@
+[
+    {"mixamorig:LeftArm":"FKShoulder_L"},
+    {"mixamorig:LeftForeArm":"FKElbow_L"},
+    {"mixamorig:LeftHand":"FKWrist_L"},
+    {"mixamorig:RightArm":"FKShoulder_R"},
+    {"mixamorig:RightForeArm":"FKElbow_R"},
+    {"mixamorig:RightHand":"FKWrist_R"},
+    {"mixamorig:LeftUpLeg":"FKHip_L"},
+    {"mixamorig:LeftLeg":"FKKnee_L"},
+    {"mixamorig:LeftFoot":"FKAnkle_L"},
+    {"mixamorig:RightUpLeg":"FKHip_R"},
+    {"mixamorig:RightLeg":"FKKnee_R"},
+    {"mixamorig:RightFoot":"FKAnkle_R"},
+    {"mixamorig:Spine":"FKRoot_M"},
+    {"mixamorig:Head":"FKHead_M"}
+]
